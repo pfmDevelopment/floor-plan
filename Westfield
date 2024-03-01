@@ -1,1 +1,2 @@
-/Westfield/.gitkeep
+git rm Westfield
+git commit -m "Westfield"
